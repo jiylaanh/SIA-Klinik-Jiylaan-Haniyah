@@ -1,0 +1,5 @@
+{
+  "name": "SIA Klinik AI Core",
+  "description": "Sistem Informasi Akuntansi Klinik berbasis AI untuk validasi transaksi, penjurnalan, dan pelaporan keuangan sesuai PSAK.",
+  "requestFramePermissions": []
+}
